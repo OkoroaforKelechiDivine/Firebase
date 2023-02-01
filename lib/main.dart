@@ -6,6 +6,8 @@ void main() {
   runApp(MyApp());
 }
 
+//https://blog.codemagic.io/firebase-authentication-google-sign-in-using-flutter/
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
